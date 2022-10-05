@@ -1,0 +1,42 @@
+.footer {
+    justify-content: space-between;
+    align-items: center;
+    height: 190px;
+    background-color: #2D314E;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+
+.footer-align {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;  
+}
+
+.footer-align p {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;   
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+.footer-logos{
+    margin-top: 5vh;
+    margin-left: 10vh;
+}
+.logo2 {
+    margin-right: 7vh;
+}
+.iconos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5vh;
+}

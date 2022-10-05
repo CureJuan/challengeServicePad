@@ -1,0 +1,35 @@
+
+.header-contains {
+    height: 80px;
+    margin-top: 5vh;
+    margin-left: 10vh;
+    margin-right: 10vh;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 7px;
+    color: #99989D; 
+    display: contents;
+}
+.menu li{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.menu li:hover{
+    border-bottom: solid 2px green;
+}
+
+

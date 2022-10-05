@@ -1,0 +1,19 @@
+.section {
+    font-family: 'Public Sans';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 62px;
+    letter-spacing: -0.02em;
+    color: #2D314E;
+    margin-left: 10vh;
+}
+
+.card {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 62px;
+    letter-spacing: -0.01em;
+    color: #2D314E;
+}

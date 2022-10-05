@@ -1,0 +1,80 @@
+.title-card {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 79px;
+  margin-bottom: 39px;
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+
+.sub-title-card {
+  font-family: "Public Sans";
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 62px;
+  letter-spacing: -0.02em;
+  color: #2D314E;
+}
+
+.cards {
+  display: inline-flex;
+  justify-content: center;
+  margin: 2%;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  justify-items: center;
+}
+
+.card-container {
+  margin: auto;
+  background-color: rgba(190, 190, 190, 0.158);
+  display: flex;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  justify-items: center;
+  justify-content: center;
+}
+
+.cardImage {
+  width: 260px;
+  height: 194.76px;
+  left: 1014px;
+  top: 179px;
+  background: #FFFFFF;
+  border-radius: 8px;
+  left: 0px;
+  top: 0px;
+}
+
+.cardTitle {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+  color: #2D314E;
+}
+
+.cardAutor {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #959499;
+
+}
+
+.cardDescription {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #959499;
+}
